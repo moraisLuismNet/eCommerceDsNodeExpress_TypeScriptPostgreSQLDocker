@@ -46,6 +46,6 @@ networks:
   ecommerce-network:
     driver: bridge
 
-# Volúmenes para persistencia de datos
+# Volumes for data persistence
 volumes:
   postgres-data:
