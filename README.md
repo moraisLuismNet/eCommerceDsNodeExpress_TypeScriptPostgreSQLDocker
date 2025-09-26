@@ -1,6 +1,6 @@
 ## eCommerceDsNodeExpress_TypeScriptPostgreSQLDocker
 
-**eCommerceDsNodeExpress_TypeScriptPostgreSQLDocker** is an Nodejs+Express API project. It is the backend service layer for an e-commerce application, focused on data management. The Repository implements the data access logic. The Services contain the application's business logic. Key features implemented in the project include: Authentication and Authorization, User Management, Catalog Management, Shopping Cart Management, and Order Management.
+**eCommerceDsNodeExpress_TypeScriptPostgreSQLDocker** is an Nodejs+Express API project. It is the backend service layer for an e-commerce application, focused on data management. The Repository implements the data access logic. The Services contain the application's business logic. Key features implemented in the project include: Authentication and Authorization, User Management, Catalog Management, Shopping Cart Management and Order Management. It uses TypeScript, PostgreSQL and JWT for authentication. The API is implemented as a Docker image. Images are not uploaded locally, the https://imgur.com service is used.
 
 ![eCommerceDs](img/UML.png)
 
